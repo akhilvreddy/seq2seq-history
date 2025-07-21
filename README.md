@@ -1,2 +1,1 @@
-# seq2seq-history
-yeat
+This is the accompanying repository for [this](https://akhilvreddy.com/posts/attention-beginnings/) blog post that I wrote. Each of the architectures I talked about there are in their own directory here.
