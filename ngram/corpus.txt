@@ -1,0 +1,50 @@
+Conditions support the `class` keyword.
+Loops require colons and indentation.
+Classes allow the `open()` function.
+Exceptions allow `def` keyword.
+Variables can contain square brackets.
+Variables use string methods like `.split()`.
+Conditions can contain `def` keyword.
+Strings use dictionary keys and values.
+Strings are initialized using square brackets.
+Functions provide square brackets.
+Dictionaries are initialized using `def` keyword.
+Functions require dot notation.
+Files are declared using string methods like `.split()`.
+Exceptions require tuple unpacking.
+Exceptions provide a for loop.
+Conditions allow the `open()` function.
+Dictionaries allow a for loop.
+Files provide the `class` keyword.
+Functions are declared using the `try` and `except` blocks.
+Classes provide string methods like `.split()`.
+Loops are initialized using colons and indentation.
+Variables are declared using the `open()` function.
+Conditions allow dot notation.
+Dictionaries require square brackets.
+Dictionaries are accessed by `def` keyword.
+Tuples use the `import` statement.
+Conditions allow colons and indentation.
+Functions provide string methods like `.split()`.
+Functions require string methods like `.split()`.
+Strings provide a for loop.
+Modules can contain the `try` and `except` blocks.
+Loops allow `def` keyword.
+Modules are declared using colons and indentation.
+Classes are accessed by the `open()` function.
+Dictionaries are declared using string methods like `.split()`.
+Variables can be created with tuple unpacking.
+Loops can contain the `import` statement.
+Strings can be created with `def` keyword.
+Conditions support tuple unpacking.
+Classes can be created with the `import` statement.
+Modules require a for loop.
+Classes allow the `import` statement.
+Loops use a for loop.
+Modules require tuple unpacking.
+Dictionaries use tuple unpacking.
+Loops use a for loop.
+Conditions can contain a for loop.
+Functions are initialized using square brackets.
+Variables are accessed by colons and indentation.
+Classes are declared using colons and indentation.
